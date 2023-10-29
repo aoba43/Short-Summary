@@ -17,7 +17,7 @@ O Short-Summary é uma ferramenta para geração de resumos de vídeos curtos do
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.png" width="100%">
+  <img alt="projeto Short-Summary" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
