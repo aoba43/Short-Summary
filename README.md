@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Short Summary é uma plataforma que oferece resumos breves de vídeos curtos do YouTube, economizando seu tempo e destacando o conteúdo mais importante.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://aoba43.github.io/Short-Summary/)
 
 
 ## :memo: Licença
