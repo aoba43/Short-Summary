@@ -1,4 +1,5 @@
 {
+  "homepage": "https://aoba43.github.io/Short-Summary",
   "name": "nlwia",
   "private": true,
   "version": "0.0.0",
@@ -6,9 +7,12 @@
   "scripts": {
     "web": "vite",
     "server": "env YTDL_NO_UPDATE=1 node --watch --no-warnings server/index.js",
-    "build": "vite build"
-  },  
+    "build": "vite build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
   "devDependencies": {
+    "gh-pages": "^6.0.0",
     "vite": "^4.4.5"
   },
   "dependencies": {
